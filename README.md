@@ -41,7 +41,7 @@ I am a Computer Science & Engineering student from Bangladesh, passionate about 
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="INSERT_YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/tasmeoumiyad/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
