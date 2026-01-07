@@ -47,4 +47,4 @@ I am a Computer Science & Engineering student from Bangladesh, passionate about 
 </p>
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=TasmeoulMiyad&show_icons=true&theme=radical" alt="TasmeoulMiyad's Github Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TasmeoulMiyad&show_icons=true&theme=radical" alt="TasmeoulMiyad's Github Stats" />
