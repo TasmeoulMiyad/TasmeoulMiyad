@@ -8,7 +8,7 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
 
 ### 🚀 What I'm Up To
 - 🔭 **Data Structures Mastery:** Actively implementing and optimizing **Advanced Data Structures** (Graphs, Trees, Linked Lists) to solve real-world computational problems.
-- - 🧠 **Logic Building & Problem Solving:** Currently in the "daily grind" phase—solving algorithmic challenges every day to sharpen my analytical thinking and transition from understanding syntax to mastering complex logic.
+- 🧠 **Logic Building & Problem Solving:** Currently in the "daily grind" phase—solving algorithmic challenges every day to sharpen my analytical thinking and transition from understanding syntax to mastering complex logic.
 - 🧩 **Competitive Programming:** Balancing a consistent daily streak on **Codeforces**, **CodeChef**, **vjudge**, and **LeetCode** alongside my academic studies—focusing on logic building, time complexity, and efficient execution.
 - 🎓 **Goal:** Bridging the gap between competitive programming and real-world software architecture.
 
@@ -25,7 +25,7 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
   <a href="https://www.codechef.com/users/tasmeoul_miyad">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://atcoder.jp/users/TasmeoulMiyad">
+  <a href="https://atcoder.jp/users/Tasmeoul_Miyad">
     <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
   </a>
 </p>
@@ -36,9 +36,9 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
