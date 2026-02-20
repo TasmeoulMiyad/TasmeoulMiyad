@@ -7,9 +7,9 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Focusing on:** Advanced Data Structures (Graphs, Trees, and Linked Lists).
-- 🌱 **Learning:** Digital Logic Design, Numerical Methods, and Object-Oriented Programming.
-- 🧩 **Daily Grind:** Solving challenges on **LeetCode** and **Codeforces** to master logic and optimization.
+- 🔭 **Data Structures Mastery:** Actively implementing and optimizing **Advanced Data Structures** (Graphs, Trees, Linked Lists) to solve real-world computational problems.
+- - 🧠 **Logic Building & Problem Solving:** Currently in the "daily grind" phase—solving algorithmic challenges every day to sharpen my analytical thinking and transition from understanding syntax to mastering complex logic.
+- 🧩 **Competitive Programming:** Balancing a consistent daily streak on **Codeforces**, **CodeChef**, **vjudge**, and **LeetCode** alongside my academic studies—focusing on logic building, time complexity, and efficient execution.
 - 🎓 **Goal:** Bridging the gap between competitive programming and real-world software architecture.
 
 ---
