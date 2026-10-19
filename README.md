@@ -50,7 +50,12 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
 </p>
 
 ---
+## 🐍 Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/tasmeoumiyad/">
