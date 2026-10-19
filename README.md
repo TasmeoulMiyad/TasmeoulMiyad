@@ -82,3 +82,11 @@ I am a Computer Science & Engineering student from Bangladesh, dedicated to the 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+  <i>"The art of not being ready but doing it anyways will take you very far."</i>
+
+</div>
