@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Cover%20photo%20for%20my%20linkedin.jpg" alt="Computer Science Student - Tasmeoul Miyad" width="100%" />
+  <img src="Miyad%20github%20cover%20photo.jpeg" alt="Computer Science Student - Tasmeoul Miyad" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Tasmeoul Miyad! 👋</h1>
